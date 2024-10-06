@@ -1,0 +1,51 @@
+.manage-heading1{
+    margin-left: 650px;
+    margin-top: -440px;
+    font-size: 25px;
+}
+.container1 {
+  text-align: center;
+  border: 2px solid;
+  border-radius: 10px;
+    margin-left: 400px;
+    border: 2px solid black;
+    margin-right: 130px;
+    margin-bottom: 10px;
+  }
+  .container1 .th{
+    font-size: 24px;
+    color: rgb(248, 6, 6);
+    font-weight: bold;
+    margin: 10px;
+  }
+.table1 {
+    margin: 10px;
+    border: 1px solid rgb(14, 13, 13);
+    border-radius: 10px;
+    font-size: 18px;
+  }
+  .table1 th,
+  .table1 td {
+    border-bottom: 1px solid #c2c2c2;
+    padding: 10px 20px; /* Optional for spacing */
+  }
+.hu{
+  display: flex;
+}
+  .delete{
+    background-color: rgb(252, 33, 4);
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+   }
+   .edit{
+    background-color: rgb(4, 111, 252);
+    color: white;
+    margin-right: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+   }

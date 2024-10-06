@@ -1,0 +1,68 @@
+.category-heading{
+    margin-left: 690px;
+    font-size: 25px;
+    margin-top: -420px;
+}
+.category-form{
+    border: 2px solid;
+    border-radius: 25px;
+    margin-left: 580px;
+    width: 380px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    padding-left: 50px;
+}
+.catagory-Name{
+    font-size: 25px;
+    text-align: center;
+    margin-left: -40px;
+    color: red;
+}
+.radio-buttons{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.category-label{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left:15px;
+}
+.category-label1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 80px;
+    margin-left: 15px;
+}
+.category-button{
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: -400px;
+    color: rgb(250, 247, 247);
+    background-color: rgb(4, 153, 252);
+    border-radius: 10px;
+}
+.category-input{
+    height: 15px;
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 5px;
+    width: 250PX;
+    margin-left: 15px;
+}
+.error-message{
+    color: red;
+    margin-top: 0px;
+}
+input::placeholder {
+    font-size: 15px; /* Adjust the size as needed */
+    color: gray; /* You can also change the placeholder color */
+}
+option{
+    font-size: 15px; /* Adjust the size as needed */
+    color: gray; /* You can also change the placeholder color */
+}

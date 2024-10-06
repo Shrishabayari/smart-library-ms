@@ -1,0 +1,46 @@
+.dashboard {
+    position: relative; /* Required for the pseudo-element */
+    height: 400px;
+}
+
+.heading1 {
+    font-size: 25px;
+    display: grid;
+    color: blue;
+    margin-left: 320px;
+    margin-top: -450px;
+}
+
+.list1 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-left: 320px;
+    padding-bottom: 20px;
+    margin-top: 40px;
+    height: 280px;
+}
+.card-icon {
+    font-size: 55px;
+}
+
+.ADcard-text{
+    font-size: 20px;
+}
+
+.card {
+    border: 1px solid black;
+    border-radius: 20px;
+    color: black;
+    margin-left: 0px;
+    padding: 20px;
+    width: 170px;
+    height: 170px;
+    text-align: center;
+}
+
+.card:hover {
+    color: blue;
+}
+a{
+    text-decoration: none;
+}

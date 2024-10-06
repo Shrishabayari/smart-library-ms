@@ -1,0 +1,47 @@
+.edit_category{
+    display: flex;
+    margin: 20px 60px;
+}
+.edit-heading{
+    margin-left: 20px;
+    color: blue;
+    font-size: 22PX;
+}
+.divs{
+    margin-left: 10px;
+}
+.edit-category-label{
+    position:relative;
+    margin-left: -10px;
+}
+.edit-category-label1{
+    position:relative;
+    margin-left: 10px;
+}
+.edit-category-label2{
+    position:relative;
+    margin-left: -1px;
+}
+.edit-category-input1{
+    height: 30px;
+    width: 150px;
+    font-size: 18px;
+    margin-top:  -10px;
+    border-radius: 5px;
+}
+
+.EDIT-CATEGORY-btn{
+    margin-left: 40px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color:rgb(4, 111, 252);
+    font-size: 20px;
+    color: white;
+}
+.edit-category-form{
+    border: 1PX solid;
+    border-radius: 5px;
+    margin-left: 400PX;
+    margin-right: 130PX;
+    padding: 5px;
+}

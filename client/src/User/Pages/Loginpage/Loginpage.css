@@ -1,0 +1,100 @@
+/* Basic styling for the form group */
+.form-group {
+    position: relative;
+    margin-bottom: 30px;
+}
+.login-input {
+    width: 100%;
+    padding: 10px 10px 10px 0;
+    font-size: 20px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    background: none;
+    outline: none;
+    transition: border-color 0.5s ease;
+}
+/* The label, initially placed over the input */
+label {
+    position: absolute;
+    left: 0;
+    top: 10px;
+    font-size: 20px;
+    color: black;
+    pointer-events: none;
+    margin-left: 77px;
+    transition: all 0.8s ease; /* Smooth transition for movement and size */
+}
+/* When input has value, move the label up */
+.login-input:focus + label,
+.filled {
+    top: -4px;
+    font-size: 12px;
+    color: #333;
+}
+/* Change border color on focus */
+.login-input:focus {
+    border-color: #333;
+}
+.login-input {
+    width: 100%;
+    max-width: 300px;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+.login-container{
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 450px;
+    height: auto;
+    margin-left: 420px;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.login{
+    font-size: 30px;
+    margin-left: -280px;
+}
+.body{
+    margin-top: -20px;
+    margin-bottom: -10px;
+}
+.login-heading1{
+    color: rgb(38, 0, 253);
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+}
+
+.login-buttion{
+    width: 250px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(250, 247, 247);
+    background-color: rgb(4, 153, 252);
+    border-radius: 10px;
+    border-color: rgb(151, 150, 150);
+}
+.login-buttion:hover{
+    border-color: black;
+    font-size: 22px;
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+}
+.Register-link{
+    color: rebeccapurple;
+    font-size: 20px;
+    text-decoration: none;
+}
+.Register-link:hover{
+    color: red;
+}
+.login-heading2{
+    margin-top: 0px;
+    font-size: 25px;
+}

@@ -1,0 +1,58 @@
+.manage-heading5{
+    margin-left: 630px;
+    margin-top: -440px;
+    font-size: 25px;
+}
+.table-heading3 {
+  text-align: center;
+    margin-left: 320px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-right: 70px;
+    padding: 10px;
+    margin-bottom: 30px;
+  }
+  .table-heading3 .th{
+    font-size: 22px;
+    color: rgb(248, 6, 6);
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+.table3 {
+    margin: 10px;
+    border: 1px solid rgb(14, 13, 13);
+    border-radius: 10px;
+    font-size: 18px;
+  }
+  .table3 .tr{
+    border-bottom: 2px solid rgb(151, 151, 151) ;
+  }
+  
+
+  .table3 th,
+  .table3 td {
+    border-bottom: 1px solid #c2c2c2;
+    padding: 10px 23px; /* Optional for spacing */
+  }
+  .td{
+    display: flex;
+  }
+  .delete{
+    background-color: rgb(252, 33, 4);
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+   }
+   .edit{
+    background-color: rgb(4, 111, 252);
+    color: white;
+    margin-right: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+   }
+   

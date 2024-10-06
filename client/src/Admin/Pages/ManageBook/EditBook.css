@@ -1,0 +1,37 @@
+.edit-book-heading{
+    color: blue;
+    margin-left: 50px;
+    font-size: 22px;
+}
+.edit-book-form{
+    border: 1px solid;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    margin-left: 380px;
+    margin-right: 150px;
+}
+
+.edit-book-form1{
+    margin-left: 100px;
+
+}
+.edit-input{
+    margin-right: 20px;
+    padding-left: 5px;
+    border-radius: 5px;
+    border: 1px solid;
+    height: 25px;
+}
+.edit-button1{
+    margin-right: 15px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+}
+.edit-button2{
+    background-color: rgb(76, 76, 77);
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+}

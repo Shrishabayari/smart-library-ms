@@ -1,0 +1,51 @@
+.author-heading{
+    margin-left: 700px;
+    margin-top: -410px;
+    font-size: 25px;
+}
+.author-heading1{
+ text-align: center;
+ color: red;
+ font-size: 25px;
+ margin-left: -50px;
+}
+.form{
+    border: 2px solid;
+    border-radius: 10px;
+    margin-left: 600px;
+    padding-left: 50px;
+    width: 340px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.author-label{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 0px;
+}
+.author-button{
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(250, 247, 247);
+    background-color: rgb(4, 153, 252);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.author-input{
+    height: 15px;
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 5px;
+    width: 250PX;
+}
+.error-message{
+    color: red;
+margin-top: 10px;
+}
+.a{
+    margin-bottom: 115px;
+}

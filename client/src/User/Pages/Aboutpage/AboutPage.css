@@ -1,0 +1,46 @@
+.about-container11{
+    margin-top: -8px;
+    text-align: center;
+    z-index: 2;
+    position: relative;
+    margin-bottom: -14px;
+}
+.about-container11::before{
+    top: 0;
+    content: '';
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    background-image: url('../../assets/A.webp');
+    width: 1333px;
+    background-size: 1340px;
+    opacity: 0.2;
+    z-index: -1;
+}
+.about-container1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    z-index: 2;
+    opacity: 2;
+}
+.about{
+    font-size: 20px;
+}
+.aboutContact{
+    font-size: 20px;
+    font-weight: bold;
+}
+.contactUs{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.LibraryTimings{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    z-index: 2;
+}
+.aboutHeadings{
+    font-size: 25px;
+}
