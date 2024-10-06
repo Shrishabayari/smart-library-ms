@@ -1,0 +1,68 @@
+.manage-heading4{
+  margin-left: 655px;
+  margin-top: -440px;
+    font-size: 25px;
+}
+.table-heading4 {
+  text-align: center;
+    margin-left: 285px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-right: 25px;
+    margin-bottom:15px ;
+  }
+  .table-heading4 .th{
+    margin-left: 20px;
+    font-size: 24px;
+    color: red;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+.table4 {
+    margin-left: 20px;
+    margin-right: 200px;
+    margin-bottom: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+    font-size: 18px;
+  }
+
+  .table4 th,
+  .table4 td {
+    border-bottom: 1px solid #c2c2c2;
+    padding: 10px 20px; /* Optional for spacing */
+  }
+ .btnn{
+  display: flex;
+  height: 30px;
+ }
+ .block-btn {
+  background-color: red; /* Red background */
+  color: white; /* White text */
+  cursor: pointer;
+  border-radius: 5px;
+  height: 30px;
+  width: 80px;
+  margin-right: 10px;
+}
+
+/* Style for the Activate button (optional) */
+.activate-btn {
+  background-color: green; /* Green background */
+  color: white; /* White text */
+  cursor: pointer;
+  border-radius: 5px;
+  height: 30px;
+  width: 80px;
+  margin-right: 10px;
+}
+
+ .details{
+  background-color: rgb(4, 111, 252);
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  height: 30px;
+  width: 80px;
+ }

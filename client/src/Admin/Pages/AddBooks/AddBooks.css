@@ -1,0 +1,85 @@
+.book-container {
+  border: 2px solid;
+  border-radius: 10px;
+  margin-left: 500px;
+  padding-left: 50px;
+  width: 550px;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+.book-heading1 {
+  color: red;
+  font-size: 25px;
+  text-align: center;
+  margin-left: -100px;
+}
+
+.book-inputs {
+  height: 15px;
+  font-size: 20px;
+  padding: 10px;
+  padding-left: 10px;
+  border-radius: 5px;
+  width: 220px;
+  margin-left: 180px;
+  margin-bottom: -10px;
+  margin-top: -10px;
+}
+.book-input1 {
+  height: 15px;
+  font-size: 20px;
+  padding: 10px;
+  padding-left: 30px;
+  border-radius: 5px;
+  width: 220px;
+  margin-left: 180px;
+  margin-bottom: -10px;
+}
+.book-input2 {
+  height: 15px;
+  font-size: 16px;
+  padding: 10px;
+  padding-left: 30px;
+  border-radius: 5px;
+  width: 220px;
+  margin-left: 150px;
+  margin-bottom: -20px;
+  margin-top: -10px;
+}
+.book-select {
+  height: 35px;
+  font-size: 20px;
+  padding-left: 30px;
+  border-radius: 5px;
+  width: 264px;
+  margin-left: 180px;
+  margin-bottom: -10px;
+  margin-top: -10px;
+}
+.book-label {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: -10px;
+
+}
+.book-button {
+  width: 250px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(250, 247, 247);
+  background-color: rgb(4, 153, 252);
+  border-radius: 10px;
+  margin-left: 120px;
+}
+.book-heading {
+  margin-left: 700px;
+  margin-top: -450px;
+  font-size: 14px;
+}
+.form-addbook {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}

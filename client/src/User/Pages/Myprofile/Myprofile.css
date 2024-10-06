@@ -1,0 +1,45 @@
+
+.profie-header{
+    margin-left: 590px;
+    font-size: 25px;
+}
+.he{
+    color: red;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.form-std{
+    border: 2px solid;
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 20px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.myProfileForm{
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.labl{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+}
+.inpt{
+    font-size: 18px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.bttn{
+   font-size: 20px;
+   border-radius: 5px;
+   background-color: #0691ee;
+   color: white;
+   width: 200px;
+   height: 40px;
+}

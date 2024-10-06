@@ -1,0 +1,84 @@
+.manage-heading {
+  margin-left: 680px;
+  margin-top: -440px;
+  font-size: 25px;
+}
+
+.table-heading {
+  margin-left: 370px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-right: 130px;
+  margin-bottom: 10px;
+}
+
+.table-heading .th {
+  text-align: center;
+  font-size: 24px;
+  color: rgb(248, 6, 6);
+  font-weight: bold;
+  margin-bottom: -5px;
+}
+
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+.book-item {
+  display: flex;
+  border: 1px solid #c2c2c2;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 10px;
+}
+
+.book-image-container {
+  flex: 0 0 140px;
+  padding: 10px;
+}
+
+.book-image {
+  width: 160px;
+  height: 215px;
+  object-fit: cover;
+}
+
+.book-details {
+  flex: 1;
+  padding: 10px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-size: 14px; 
+  text-align: center;
+}
+
+.book-details p {
+  margin: 5px 0;
+}
+
+.book-actions {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 10px;
+}
+
+.edit, .delete {
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.edit {
+  background-color: rgb(4, 111, 252);
+  color: white;
+  margin-right: 8px;
+}
+
+.delete {
+  background-color: rgb(252, 33, 4);
+  color: white;
+}

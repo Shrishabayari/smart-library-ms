@@ -1,0 +1,40 @@
+.edit-author{
+    color: blue;
+    margin-left: 40px;
+    font-size: 22px;
+}
+.edit-author-form{
+    border: 1PX solid;
+    border-radius: 5px;
+    margin-left: 450PX;
+    margin-right: 200PX;
+    padding: 20px;
+    padding-top: 10px;
+}
+.edit-author-form1{
+    margin-left: 80px;
+}
+.edit-author-input{
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid;
+    height: 30px;
+}
+.edit-author-butn1{
+    margin-right: 10px;
+    background-color: blue;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+}
+.edit-author-butn2{
+    background-color: rgb(76, 76, 77);
+    color: white;
+    height: 30px;
+    border-radius: 5px;
+}
+.edit-author-label{
+    position: relative;
+    margin-left: 10px;
+    font-style: 18px;
+}

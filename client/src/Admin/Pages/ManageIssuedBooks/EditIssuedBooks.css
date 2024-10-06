@@ -1,0 +1,49 @@
+.editissuedbookinpt{
+    width: 120px;
+    margin: 10px;
+    border-radius: 5px;
+    height: 30px;
+}
+.editissuedbookbtn{
+    width: 128px;
+    margin-right: 10px;
+    background-color:gold;
+    border-radius: 5px;
+    height: 35px;
+}
+.editissuedbookbtn1{
+    width: 128px;
+    margin-right: 10px;
+    border-radius: 5px;
+    height: 35px;
+    background-color: blue;
+    color: white;
+}
+.editissuedbookbtn2{
+    width: 128px;
+    margin-right: 10px;
+    border-radius: 5px;
+    height: 35px;
+    background-color: rgb(76, 76, 77);
+    color: white;
+}
+.edit-issue-book-form{
+    border: 1px solid; 
+    border-radius: 5px;
+    margin-right: 70px;
+    margin-left: 320px;
+}
+.editbookhading{
+    color: blue;
+    margin-left: 50px;
+    font-size: 22px;
+}
+.editbookform{
+    margin-left: 70px;
+    padding-bottom: 20px;
+    margin-top: -10px;
+}
+.edit-issue-book-form{
+    margin-top: -15px;
+    margin-bottom: 30px;
+}

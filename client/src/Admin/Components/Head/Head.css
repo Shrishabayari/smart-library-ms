@@ -1,0 +1,50 @@
+.head-contaier{
+    background-image: url('../../../user/assets/e.jpg');
+  background-size:17%;
+  background-position: bottom;
+   height: 100px;
+   margin-bottom: -10px;
+  }
+.logout-buttion1{
+    margin-top: 25px;
+    height: 50px;
+    width: 170px;
+    font-size: 18px;
+    font-weight: bolder;
+    border-radius: 10px;
+    background-color: rgb(40, 2, 255);
+    border-color: white;
+    color: white;
+    margin-left: 120px;
+}
+.home-logo1{
+    height: 80px;
+    width: 160px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.left-heading1{
+    padding-left: 20px;
+    display: flex;
+    color: white;
+    flex-direction: row;
+}
+.home-heading1{
+    margin-top: 20px;
+    margin-left: 10px;
+    backdrop-filter: blur(30px);
+    box-shadow: 0px 0px 30px rgba(250, 248, 248, 0.0);
+    border: 2px solid rgba(248, 246, 246, 0.9);
+    border-radius: 10px;
+    width: 699px;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 1.5px;
+    word-spacing: 5px;
+    font-size: 30px;
+    text-shadow: 2px 2px 0 red, -2px 2px 0 red, 2px -2px 0 red, -2px -2px 0 red;
+
+}
+.heading{
+    display: flex;
+}

@@ -1,0 +1,46 @@
+.container-home{
+  display: flex;
+}
+.img-container{
+  border: 2px solid blue;
+  max-width: 1000px; 
+  height: 435px;
+  max-height: auto;
+  margin: auto;
+  overflow: hidden;
+  padding-bottom: 0px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+}
+.low-opacity {
+  opacity: 0.4;
+}
+.arrow-left, .arrow-right {
+  cursor:pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+  
+.arrow-left {
+  left: 200px;
+  top: 800px;
+  font-size: 70px;
+  color: #031cfc;
+}
+
+.arrow-right {
+  right: 200px;
+  top: 800px;
+  font-size: 70px;
+  color: #031cfc;
+}
+.home-img{
+  height: 440px;
+  width: 1000px;
+}
+hr{
+  border: 3px solid rgb(209, 100, 236);
+}
