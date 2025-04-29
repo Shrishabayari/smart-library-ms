@@ -25,6 +25,11 @@
 }
 .BookDetails{
     display: flex;
+<<<<<<< HEAD
+=======
+    margin-top: -10px;
+    margin-bottom: 20px;
+>>>>>>> e07a47c3cd54194bc07a3957b66bc3e6538db22c
 }
 .issue-book-heading{
     font-size: 25px;
